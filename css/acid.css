@@ -1,0 +1,16 @@
+table{
+	border-collapse:collapse;
+	font-family:"calibri",sans-serif;
+	width:290px;
+	border-top:10px solid #cccccc;
+	border-bottom:10px solid #cccccc;
+	border-left:20px solid #cccccc;
+	border-right:20px solid #cccccc;
+}
+caption{
+	border:15px solid #000000;
+}
+td{
+	color:rgba(255,255,255,1);
+	padding:5px;
+}
